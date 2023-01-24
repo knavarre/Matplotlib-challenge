@@ -1,4 +1,4 @@
-# PyCity Schools Data Analysis 
+# Pymaceuticals Inc. Data Analysis 
 By Kiana Navarre
 
 **Programming Language Used: Python/Matplotlib**
